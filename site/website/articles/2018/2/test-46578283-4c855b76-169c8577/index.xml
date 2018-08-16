@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>	<display-template>/templates/web/pages/article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3855d669</objectGroupId>
+	<objectId>3855d669-308b-4d6b-8105-f32029dc27f8</objectId>
+	<sections item-list="true">	<item>	<section_html>&lt;p&gt;asfsdafsafsadf&lt;/p&gt;</section_html>
+	</item></sections>
+	<file-name>index.xml</file-name>
+	<folder-name>test-46578283-4c855b76-169c8577</folder-name>
+	<internal-name>a 46578283 4c855b76 169c8577</internal-name>
+	<title>s</title>
+	<subject>a</subject>
+	<author>sssttt</author>
+	<header item-list="true">	<item>	<key>/site/components/headers/header.xml</key>
+	<value>Header</value>
+	<include>/site/components/headers/header.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header>
+	<left-rail item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
+	<value>Left Rail with Latest Articles</value>
+	<include>/site/components/left-rails/left-rail-with-latest-articles.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></left-rail>
+	<disabled>false</disabled>
+	<featured_b>false</featured_b>
+	<categories>	<item>	<key>style</key>
+	<value_smv>Style</value_smv>
+	</item>	<item>	<key>health</key>
+	<value_smv>Health</value_smv>
+	</item>	<item>	<key>entertainment</key>
+	<value_smv>Entertainment</value_smv>
+	</item>	<item>	<key>technology</key>
+	<value_smv>Technology</value_smv>
+	</item></categories>
+	<segments>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item>	<item>	<key>gal</key>
+	<value_smv>Gal</value_smv>
+	</item></segments>
+	<summary>tttttttttttttttttt</summary>
+	<image>/static-assets/images/castle-pic.jpg</image>
+	<createdDate>2018-08-14T22:35:45.728Z</createdDate>
+	<createdDate_dt>2018-08-14T22:35:45.728Z</createdDate_dt>
+	<lastModifiedDate>2018-08-16T18:47:53.619Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-08-16T18:47:53.619Z</lastModifiedDate_dt>
+	<date_dt>2018-08-14T04:00:00.000Z</date_dt>
+</page>
